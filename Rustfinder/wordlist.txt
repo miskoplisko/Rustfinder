@@ -1,0 +1,11 @@
+admin
+login
+dashboard
+images
+css
+js
+uploads
+hiden
+json
+secret
+game
